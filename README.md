@@ -1,4 +1,4 @@
-# Lane Line Detection using artificial intelligence 🛣🤖
+# Lane Line Detection using artificial intelligence 🛣🚗🤖
 
 This project implements a lane line detection system using computer vision techniques and AI algorithms. The system processes video input to identify and highlight lane lines, essential for various applications in autonomous driving, lane departure warning systems, and advanced driver assistance systems (ADAS).
 
